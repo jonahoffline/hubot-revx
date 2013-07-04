@@ -1,0 +1,22 @@
+{
+  "name": "hubot-revx",
+  "version": "0.0.1",
+  "description": "Reverend X / Spirit of Truth script for Hubot.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/jonahoffline/hubot-revx"
+  },
+  "keywords": [
+    "hubot",
+    "revx",
+    "reverendx",
+    "spiritoftruth"
+  ],
+  "author": "Jonah Ruiz <jonah@pixelhipsters.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+     "hubot": ">= 2.5.4"
+  }
+}
