@@ -18,3 +18,13 @@ Run the following command to make sure those packages is installed.
 To enable the script, add the `hubot-revx` entry to the `external-scripts.json` file (you may need to create this file, if it is not present or if you upgraded from Hubot < 2.4).
 
     ["hubot-revx"]
+
+## Author
+  * [Jonah Ruiz](http://www.pixelhipsters.com)
+
+## Contributing
+
+Is it worth it? let me fork it
+I put my thing down, flip it and debug it
+Ti gubed dna ti pilf nwod gniht ym tup I
+Ti gubed dna ti pilf nwod gniht ym tup I
