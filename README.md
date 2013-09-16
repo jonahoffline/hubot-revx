@@ -28,3 +28,7 @@ Is it worth it? let me fork it
 I put my thing down, flip it and debug it
 Ti gubed dna ti pilf nwod gniht ym tup I
 Ti gubed dna ti pilf nwod gniht ym tup I
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jonahoffline/hubot-revx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
