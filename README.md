@@ -1,6 +1,9 @@
 # RevX-hubot [![Dependency Status](https://gemnasium.com/jonahoffline/hubot-revx.png)](https://gemnasium.com/jonahoffline/hubot-revx)
 
 RevX is a script for [Hubot](http://hubot.github.com/). Anoints your hipchat room with the [Spirit Of Truth](http://www.youtube.com/watch?v=MwsWskgKe5E).
+
+[![NPM](https://nodei.co/npm/hubot-revx.png)](https://nodei.co/npm/hubot-revx/)
+
 ![RevX](http://pixelhipsters.com/img/revx.gif)
 
 ## Installation
